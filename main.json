@@ -36,6 +36,30 @@
     "link":"https://statussaver541.github.io/statussaver/hanuman/db.json",
      "poster":"https://statussaver541.github.io/statussaver/categories/mahadev.png"
     
+  },
+   {
+    "category":"funny",
+    "link":"https://statussaver541.github.io/statussaver/funny/db.json",
+     "poster":"https://statussaver541.github.io/statussaver/categories/funny.png"
+    
+  },
+   {
+    "category":"god",
+    "link":"https://statussaver541.github.io/statussaver/god/db.json",
+     "poster":"https://statussaver541.github.io/statussaver/categories/god.png"
+    
+  },
+   {
+    "category":"hot",
+    "link":"https://statussaver541.github.io/statussaver/hot/db.json",
+     "poster":"https://statussaver541.github.io/statussaver/categories/hot.png"
+    
+  },
+   {
+    "category":"sad",
+    "link":"https://statussaver541.github.io/statussaver/sad/db.json",
+     "poster":"https://statussaver541.github.io/statussaver/categories/sad.png"
+    
   }
   
 ]
