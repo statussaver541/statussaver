@@ -1,6 +1,25 @@
 {
 "data":[
-  
+  {
+    "category":"love",
+    "link":"https://statussaver541.github.io/statussaver/love/db.json"
+    
+  },
+   {
+    "category":"mahadev",
+    "link":"https://statussaver541.github.io/statussaver/mahadev/db.json"
+    
+  },
+   {
+    "category":"ayodhya",
+    "link":"https://statussaver541.github.io/statussaver/ayodhya/db.json"
+    
+  },
+   {
+    "category":"hanuman",
+    "link":"https://statussaver541.github.io/statussaver/hanuman/db.json"
+    
+  }
   
 ]
   
