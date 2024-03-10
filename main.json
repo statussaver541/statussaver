@@ -1,67 +1,54 @@
 {
-"data":[
-  {
-    "category":"love",
-    "link":"https://statussaver541.github.io/statussaver/love/db.json",
-    "poster":"https://statussaver541.github.io/statussaver/categories/love.png"
-    
-    
-  },
-   {
-    "category":"mahadev",
-    "link":"https://statussaver541.github.io/statussaver/mahadev/db.json",
-     "poster":"https://statussaver541.github.io/statussaver/categories/mahadev.png"
-    
-  },
-     {
-    "category":"baby",
-    "link":"https://statussaver541.github.io/statussaver/baby/db.json",
-     "poster":"https://statussaver541.github.io/statussaver/categories/baby.png"
-    
-  },
-   {
-    "category":"ayodhya",
-    "link":"https://statussaver541.github.io/statussaver/ayodhya/db.json",
-     "poster":"https://statussaver541.github.io/statussaver/categories/mahadev.png"
-    
-  },
-   {
-    "category":"friends",
-    "link":"https://statussaver541.github.io/statussaver/friends/db.json",
-     "poster":"https://statussaver541.github.io/statussaver/categories/friends.png"
-    
-  },
+  "data": [
     {
-    "category":"hanuman",
-    "link":"https://statussaver541.github.io/statussaver/hanuman/db.json",
-     "poster":"https://statussaver541.github.io/statussaver/categories/mahadev.png"
-    
-  },
-   {
-    "category":"funny",
-    "link":"https://statussaver541.github.io/statussaver/funny/db.json",
-     "poster":"https://statussaver541.github.io/statussaver/categories/funny.png"
-    
-  },
-   {
-    "category":"god",
-    "link":"https://statussaver541.github.io/statussaver/god/db.json",
-     "poster":"https://statussaver541.github.io/statussaver/categories/god.png"
-    
-  },
-   {
-    "category":"hot",
-    "link":"https://statussaver541.github.io/statussaver/hot/db.json",
-     "poster":"https://statussaver541.github.io/statussaver/categories/hot.png"
-    
-  },
-   {
-    "category":"sad",
-    "link":"https://statussaver541.github.io/statussaver/sad/db.json",
-     "poster":"https://statussaver541.github.io/statussaver/categories/sad.png"
-    
-  }
-  
-]
-  
+      "category": "love",
+      "link": "https://statussaver541.github.io/statussaver/love/db.json",
+      "poster": "https://statussaver541.github.io/statussaver/categories/love.png"
+    },
+    {
+      "category": "mahadev",
+      "link": "https://statussaver541.github.io/statussaver/mahadev/db.json",
+      "poster": "https://statussaver541.github.io/statussaver/categories/mahadev.png"
+    },
+    {
+      "category": "baby",
+      "link": "https://statussaver541.github.io/statussaver/baby/db.json",
+      "poster": "https://statussaver541.github.io/statussaver/categories/baby.png"
+    },
+    {
+      "category": "ayodhya",
+      "link": "https://statussaver541.github.io/statussaver/ayodhya/db.json",
+      "poster": "https://statussaver541.github.io/statussaver/categories/mahadev.png"
+    },
+    {
+      "category": "friends",
+      "link": "https://statussaver541.github.io/statussaver/friends/db.json",
+      "poster": "https://statussaver541.github.io/statussaver/categories/friends.png"
+    },
+    {
+      "category": "hanuman",
+      "link": "https://statussaver541.github.io/statussaver/hanuman/db.json",
+      "poster": "https://statussaver541.github.io/statussaver/categories/mahadev.png"
+    },
+    {
+      "category": "funny",
+      "link": "https://statussaver541.github.io/statussaver/funny/db.json",
+      "poster": "https://statussaver541.github.io/statussaver/categories/funny.png"
+    },
+    {
+      "category": "god",
+      "link": "https://statussaver541.github.io/statussaver/god/db.json",
+      "poster": "https://statussaver541.github.io/statussaver/categories/god.png"
+    },
+    {
+      "category": "hot",
+      "link": "https://statussaver541.github.io/statussaver/hot/db.json",
+      "poster": "https://statussaver541.github.io/statussaver/categories/hot.png"
+    },
+    {
+      "category": "sad",
+      "link": "https://statussaver541.github.io/statussaver/sad/db.json",
+      "poster": "https://statussaver541.github.io/statussaver/categories/sad.png"
+    }
+  ]
 }
